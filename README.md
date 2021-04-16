@@ -1,1 +1,1 @@
-# wv-vendor-trail
+# w-vendor-trail
